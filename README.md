@@ -18,7 +18,7 @@ convey the user's intent to the machine.
 IMO the cloud is a slippery slope, and we can do better (the physical storage is still needed, somewhere). If there is a Moore's law for data storage, that interests me.  
 P.S. the "cloud" is not the problem, it's the current implementation.  
 
-4. Open source initiatives/right to repair -  [WSJ Right to repair(link)](https://www.youtube.com/watch?v=0NCjoUx-KLI)
+4. Open source initiatives/right to repair -  [WSJ Right to repair(link)](https://www.youtube.com/watch?v=0NCjoUx-KLI)  
 I put these together because the ones who fight right to repair are always fighting open source resources.  
 
 5. Recursion  
