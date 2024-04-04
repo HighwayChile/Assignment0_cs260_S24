@@ -14,15 +14,15 @@ AI is the most front-facing computing topic at the moment.
 It is very interesting, to me, the process of turning language into data and using that data to 
 convey the user's intent to the machine.  
 
-3. Data storage solutions -  [Quantum All-Flash](https://www.quantum.com/en/products/object-storage/)  
+3. Data storage solutions -  [Quantum All-Flash(random data storage solution)](https://www.quantum.com/en/products/object-storage/)  
 IMO the cloud is a slippery slope, and we can do better (the physical storage is still needed, somewhere). If there is a Moore's law for data storage, that interests me.  
 P.S. the "cloud" is not the problem, it's the current implementation.  
 
 4. Open source initiatives/right to repair -  [WSJ Right to repair video](https://www.youtube.com/watch?v=0NCjoUx-KLI)  
 I put these together because the ones who fight right to repair are always fighting open source resources.  
 
-5. Recursion  
-I like the idea of using self-referential codes to communicate.  
+5. Quantum Computing - [Full tour of quantum computer laboratory](https://www.bitchute.com/video/fIEH4-P2nyQ/)  
+I watched this video recently and it's very, very cool. Each quantum computer requires a very powerful conventional computer. Also, quantum computing is not done in real-time. They run the model, then analyze the states of the quantum particles, which are mostly inferred. I think the goal is to use these quantum states as sorts of logic gates, but I am not totally sure.  
 
 
 # Five Difficult Computing Topics  
